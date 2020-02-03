@@ -81,6 +81,7 @@ Useful articles and learning resources.
 - [Handling Static Forms - The Client-side Way](https://www.bolajiayodeji.com/handling-static-forms-the-client-side-way/)
 - [How to Contribute to an Open Source Project](https://css-tricks.com/how-to-contribute-to-an-open-source-project/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+- [Start Your Machine Learning Carrer](https://medium.com/machine-learning-digest/beginners-learning-path-for-machine-learning-5a7fb90f751a)
 
 ## Tools
 
